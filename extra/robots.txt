@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /cgi/
+Disallow: /src/
+Disallow: /static/
+Disallow: /templates/
+Disallow: /todo/
+Disallow: /ikiwiki/
+Disallow: /shortcuts/
+
